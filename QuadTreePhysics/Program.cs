@@ -31,7 +31,7 @@ namespace QuadTreePhysics
                 }
                 window.DispatchEvents();
                 window.Display();
-
+                Console.WriteLine("Test");
             }
         }
         static void OnClose(object sender, EventArgs e)

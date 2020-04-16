@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blazi\\Documents\\Fork\\QuadTreePhysics\\QuadTreePhysics.csproj": {}
+    "C:\\Users\\blazi\\Documents\\Fork\\Quadtree-Physics\\QuadTreePhysics\\QuadTreePhysics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blazi\\Documents\\Fork\\QuadTreePhysics\\QuadTreePhysics.csproj": {
+    "C:\\Users\\blazi\\Documents\\Fork\\Quadtree-Physics\\QuadTreePhysics\\QuadTreePhysics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blazi\\Documents\\Fork\\QuadTreePhysics\\QuadTreePhysics.csproj",
+        "projectUniqueName": "C:\\Users\\blazi\\Documents\\Fork\\Quadtree-Physics\\QuadTreePhysics\\QuadTreePhysics.csproj",
         "projectName": "QuadTreePhysics",
-        "projectPath": "C:\\Users\\blazi\\Documents\\Fork\\QuadTreePhysics\\QuadTreePhysics.csproj",
+        "projectPath": "C:\\Users\\blazi\\Documents\\Fork\\Quadtree-Physics\\QuadTreePhysics\\QuadTreePhysics.csproj",
         "packagesPath": "C:\\Users\\blazi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blazi\\Documents\\Fork\\QuadTreePhysics\\obj\\",
+        "outputPath": "C:\\Users\\blazi\\Documents\\Fork\\Quadtree-Physics\\QuadTreePhysics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
